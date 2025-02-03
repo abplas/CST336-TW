@@ -1,0 +1,51 @@
+.row {
+    display:flex; 
+    justify-content:center;
+    justify-content: space-between;
+}
+
+.names {
+    color:black;
+    font-size:max(1vw, 2vw);
+
+}
+
+body {
+    background-color: lightblue;
+}
+
+footer {
+    font-size: small;
+    color: green;
+}
+
+.imgs {
+    width: 200;
+    height: 200;
+}
+
+#head {
+    color:blue;
+    text-align: center;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+#four {
+    font-size: larger;
+}
+
+#five {
+    font-size: large;
+}
+
+.about {
+    border: 3px solid green;
+    font-size: larger;
+}
